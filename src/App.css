@@ -3,4 +3,16 @@
 
   padding: 64px;
   border-radius: 5px;
+
+  height: 400px;
+
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  justify-content: space-evenly;
+}
+
+h1{
+  color: #094d77;
+  margin: 0;
 }

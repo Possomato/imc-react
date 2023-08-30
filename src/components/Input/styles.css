@@ -1,0 +1,20 @@
+.container{
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+label{
+  font-size: 14px;
+  line-height: 18px;
+  color: #094d77;
+  margin-bottom: 4px;
+}
+
+input{
+  background-color: whitesmoke;
+  border: 1px solid #094d77;
+  border-radius: 5px;
+  background-color: whitesmoke;
+  padding: 16px;
+}
